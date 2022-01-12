@@ -1,4 +1,4 @@
-module github.com/juanmanuel-tirado/SaveTheWorldWithGo/11_modules/modules/example_01
+module github.com/arasevic/SaveTheWorldWithGo/11_modules/modules/example_01
 
 go 1.15
 

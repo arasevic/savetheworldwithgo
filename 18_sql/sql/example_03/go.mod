@@ -1,4 +1,4 @@
-module github.com/juanmanuel-tirado/savetheworldwithgo/16_sql/example_03
+module github.com/arasevic/savetheworldwithgo/16_sql/example_03
 
 go 1.15
 

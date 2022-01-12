@@ -3,7 +3,7 @@ package main
 import (
     "context"
     "fmt"
-    pb "github.com/juanmanuel-tirado/savetheworldwithgo/13_grpc/grpc/example_01/user"
+    pb "github.com/arasevic/savetheworldwithgo/13_grpc/grpc/example_01/user"
     "google.golang.org/grpc"
     "time"
 )

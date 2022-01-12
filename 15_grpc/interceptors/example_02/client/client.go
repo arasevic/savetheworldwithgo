@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 	"fmt"
-	pb "github.com/juanmanuel-tirado/savetheworldwithgo/13_grpc/interceptors/example_02/user"
+	pb "github.com/arasevic/savetheworldwithgo/13_grpc/interceptors/example_02/user"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/metadata"
 	"runtime"

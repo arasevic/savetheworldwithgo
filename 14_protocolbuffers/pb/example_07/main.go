@@ -3,7 +3,7 @@ package main
 import (
     "fmt"
     "google.golang.org/protobuf/proto"
-    "github.com/juanmanuel-tirado/savetheworldwithgo/12_protocolbuffers/pb/example_07/user"
+    "github.com/arasevic/savetheworldwithgo/12_protocolbuffers/pb/example_07/user"
 )
 
 func main() {

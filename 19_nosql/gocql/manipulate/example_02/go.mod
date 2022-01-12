@@ -1,4 +1,4 @@
-module github.com/juanmanuel-tirado/savetheworldwithgo/17_nosql/gocql/manipulate/example_02
+module github.com/arasevic/savetheworldwithgo/17_nosql/gocql/manipulate/example_02
 
 go 1.15
 

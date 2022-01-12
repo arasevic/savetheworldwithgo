@@ -4,7 +4,7 @@ import (
     "fmt"
     "google.golang.org/protobuf/proto"
     "google.golang.org/protobuf/types/known/anypb"
-    "github.com/juanmanuel-tirado/savetheworldwithgo/12_protocolbuffers/pb/example_05/user"
+    "github.com/arasevic/savetheworldwithgo/12_protocolbuffers/pb/example_05/user"
 )
 
 func main() {

@@ -3,7 +3,7 @@ package main
 import (
     "encoding/json"
     "fmt"
-    "github.com/juanmanuel-tirado/savetheworldwithgo/12_protocolbuffers/pb/example_08/user"
+    "github.com/arasevic/savetheworldwithgo/12_protocolbuffers/pb/example_08/user"
 )
 
 func main() {

@@ -2,7 +2,7 @@ package main
 
 import (
     "fmt"
-    pb "github.com/juanmanuel-tirado/savetheworldwithgo/13_grpc/streaming/example_03/chat"
+    pb "github.com/arasevic/savetheworldwithgo/13_grpc/streaming/example_03/chat"
     "google.golang.org/grpc"
     "io"
     "net"

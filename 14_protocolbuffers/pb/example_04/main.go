@@ -1,6 +1,6 @@
 package main
 import (
-    "github.com/juanmanuel-tirado/savetheworldwithgo/12_protocolbuffers/pb/example_04/group"
+    "github.com/arasevic/savetheworldwithgo/12_protocolbuffers/pb/example_04/group"
     "google.golang.org/protobuf/proto"
     "fmt"
 )

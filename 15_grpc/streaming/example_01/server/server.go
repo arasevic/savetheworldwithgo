@@ -3,7 +3,7 @@ package main
 import (
     "errors"
     "fmt"
-    pb "github.com/juanmanuel-tirado/savetheworldwithgo/13_grpc/streaming/example_01/numbers"
+    pb "github.com/arasevic/savetheworldwithgo/13_grpc/streaming/example_01/numbers"
     "google.golang.org/grpc"
     "math/rand"
     "net"

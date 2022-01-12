@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/juanmanuel-tirado/savetheworldwithgo/15_cli/cobra/advanced/example_05/cmd"
+	"github.com/arasevic/savetheworldwithgo/15_cli/cobra/advanced/example_05/cmd"
 	"github.com/spf13/cobra"
 	"os"
 	"math/rand"
